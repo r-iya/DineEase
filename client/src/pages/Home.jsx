@@ -15,7 +15,7 @@ const Home = () => {
                 </div>
                 <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 lg:py-32 flex flex-col items-center text-center">
                     <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight mb-6">
-                        Discover & Book the <span className="text-primary-500">Best Restaurants</span>
+                        Discover & Book the <span className="text-primary-500">Best Restaurants checkinggggggg</span>
                     </h1>
                     <p className="text-xl md:text-2xl text-gray-300 max-w-3xl mb-10">
                         One-stop platform to find local gems, view menus via AI scans, and book your table instantly.
