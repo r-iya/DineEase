@@ -1,4 +1,4 @@
-FROM node:18
+FROM node:20
 
 WORKDIR /app/client
 
@@ -7,6 +7,8 @@ COPY client/package*.json ./
 RUN npm install
 
 COPY client .
+
+RUN npm install -g vite
 
 RUN npm run build
 
